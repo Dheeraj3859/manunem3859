@@ -1,0 +1,38 @@
+.icons h1 {
+  font-family: 'Economica', sans-serif;
+  font-size: 40px;
+}
+.fb :hover {
+  height: 80px;
+  width:80px;
+}
+.tw :hover {
+  height: 80px;
+  width:80px;
+}
+.ins :hover {
+  height: 80px;
+  width:80px;
+}
+ul li {
+  list-style: none;
+  display: inline-block;
+  padding: 10px;
+
+}
+ul {
+  align-items:
+}
+.cont h3 {
+  font-family: 'Boogaloo', cursive;
+  font-size: 40px;
+}
+p {
+  font-size: 30px;
+  font-family: 'Boogaloo', cursive;
+}
+body {
+  background-image: url(back.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}

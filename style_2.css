@@ -1,0 +1,27 @@
+body {
+  background-image: url(faint.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+
+}
+caption {
+  font-size: 50px;
+  font-family: 'Great Vibes', cursive;
+
+}
+table, th, td {
+  border: 3px solid;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 200px;
+  border-collapse: collapse;
+}
+tr {
+  font-size: 40px;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+
+}
+th, td {
+  padding: 10px;
+}

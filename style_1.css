@@ -1,0 +1,20 @@
+body {
+  background-image: url(determination1.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+.name {
+  font-family: 'Pacifico', cursive;
+  font-size: 30px;
+}
+.college {
+   font-family: 'Pacifico', cursive;
+   font-size: 30px;
+
+}
+.branch {
+  font-size: 30px;
+  font-family: 'Pacifico', cursive;
+  color: red
+
+}
